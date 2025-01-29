@@ -27,7 +27,6 @@ shapely==2.0.6
 requests==2.32.3
 beautifulsoup4==4.12.3
 gazpacho==1.1
-
 jupyterlab==4.2.3
 jupyter_server==2.14.1
 notebook==7.2.1
@@ -41,7 +40,6 @@ altair==5.3.0
 plotly
 streamlit==1.37.0
 pydeck==0.9.1
-s
 APScheduler==3.10.4
 pygame==2.6.1
 XlsxWriter==3.1.9
